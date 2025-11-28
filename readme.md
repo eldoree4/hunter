@@ -38,8 +38,8 @@ Bash, cURL, xargs, md5sum, dan bc (Basic Calculator).
 Jalankan: `pkg update` dan `pkg install bc`
 
 ### Setup Awal
-1. `chmod +x bug_hunter_advanced.sh`
-2. `./bug_hunter_advanced.sh`
+1. `chmod +x hunter.sh`
+2. `./hunter.sh`
 
 ---
 
