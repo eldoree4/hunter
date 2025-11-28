@@ -1,9 +1,4 @@
-Tentu, ini adalah file `README.md` yang disajikan dalam bentuk tabel dengan dua kolom (`Key` dan `Value`) agar mudah bagi Anda untuk disalin dan ditempelkan ke dalam dokumen Anda.
-
-| Key | Value |
-| :--- | :--- |
-| **Filename** | `README.md` |
-| **Heading 1** | \# 🛡️ Bug Hunter Advanced v5.0 (Enterprise Edition) |
+Hunter Advanced v5.0 (Enterprise Edition) |
 | **Subtitle 1** | **Creator:** El Doree | **Versi:** 5.0 (Enterprise Edition) |
 | **Deskripsi Utama** | Alat pengujian keamanan berbasis Bash yang canggih dan *multi-threaded*. Dirancang untuk melampaui *scan* status kode dasar, berfokus pada **Analisis Perilaku Respons** melalui **Smart Baseline Caching** dan **Anomaly Detection** untuk mengungkap kerentanan tersembunyi (*blind* dan *time-based*). |
 | **---** | --- |
